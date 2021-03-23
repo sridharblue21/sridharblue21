@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sridharblue21
-- 👀 I’m interested in Python 
+- 👀 I’m interested in Python/IoT
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on any Python projects
 - 📫 How to reach me on Twitter @sridharblue21
