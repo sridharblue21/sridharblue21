@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/sridharblue21" target="blank"><img src="https://img.shields.io/twitter/follow/sridharblue21?logo=twitter&style=for-the-badge" alt="sridharblue21" /></a> </p>
 
-- 🔭 I’m currently working on **FastAPI**
+- 🔭 I’m currently working on **Django**
 
 - 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **Python projects**
 
-- 🤝 I’m looking for help with **Airflow, Pyspark**
+- 🤝 I’m looking for help with **Airflow**
 
 - 📝 I regularly write articles on [https://bluebrainlabs.com/](https://bluebrainlabs.com/)
 
