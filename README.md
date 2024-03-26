@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sridharblue21" target="blank"><img src="https://img.shields.io/twitter/follow/sridharblue21?logo=twitter&style=for-the-badge" alt="sridharblue21" /></a> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Plotly Dash**
 
 - 🌱 I’m currently learning **Devops**
 
