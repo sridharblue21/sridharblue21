@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Plotly Dash**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Self-hosting**
 
-- 👯 I’m looking to collaborate on **Python projects**
+- 👯 I’m looking to collaborate on **Python projects**, **Self-hosting**
 
 - 🤝 I’m looking for help with **Airflow**
 
